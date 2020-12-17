@@ -142,14 +142,6 @@ header {
     max-width:1080px;
     margin: 0 auto;  
 }
-.message-text {
-    color:white;
-    font-size:50px;
-    font-weight:bold;
-    position:absolute;
-    top:80%;
-    right:20%;
-}
 /*mainおわり*/
 /*food-menu*/
 .food-menu h1 {
